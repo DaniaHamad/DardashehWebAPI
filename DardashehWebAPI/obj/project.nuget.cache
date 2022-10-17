@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YaQX6YAwR0oddQAidqa8xEQoCzkIb2uF1dOLmhgXfl8r7lJuw4XmnTLPMBav1DrE4+mzo1L8gtxDV34iiW0/wQ==",
+  "dgSpecHash": "KVceG/n2vuPu0w7vzCCRhJe1Cju8x8IqcvmdOb5ITpDpaodMt77HTF7mRSDKcKSWPFzJV4mTD6vAZOgfc1DbOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hamad\\Desktop\\Dev\\Web\\ASP.Net\\Code\\DardashehWebAPI\\DardashehWebAPI\\DardashehWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\hamad\\Desktop\\Dev\\FullStack\\Dardasheh\\Code\\WebAPI\\ASP.netCore\\DardashehWebAPI\\DardashehWebAPI\\DardashehWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamad\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hamad\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.10\\microsoft.aspnetcore.authentication.jwtbearer.6.0.10.nupkg.sha512",

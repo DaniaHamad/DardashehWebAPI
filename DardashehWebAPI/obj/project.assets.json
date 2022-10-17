@@ -2486,11 +2486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hamad\\Desktop\\Dev\\Web\\ASP.Net\\Code\\DardashehWebAPI\\DardashehWebAPI\\DardashehWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\hamad\\Desktop\\Dev\\FullStack\\Dardasheh\\Code\\WebAPI\\ASP.netCore\\DardashehWebAPI\\DardashehWebAPI\\DardashehWebAPI.csproj",
       "projectName": "DardashehWebAPI",
-      "projectPath": "C:\\Users\\hamad\\Desktop\\Dev\\Web\\ASP.Net\\Code\\DardashehWebAPI\\DardashehWebAPI\\DardashehWebAPI.csproj",
+      "projectPath": "C:\\Users\\hamad\\Desktop\\Dev\\FullStack\\Dardasheh\\Code\\WebAPI\\ASP.netCore\\DardashehWebAPI\\DardashehWebAPI\\DardashehWebAPI.csproj",
       "packagesPath": "C:\\Users\\hamad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hamad\\Desktop\\Dev\\Web\\ASP.Net\\Code\\DardashehWebAPI\\DardashehWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\hamad\\Desktop\\Dev\\FullStack\\Dardasheh\\Code\\WebAPI\\ASP.netCore\\DardashehWebAPI\\DardashehWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
