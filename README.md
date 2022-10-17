@@ -21,6 +21,6 @@ A back-end application for Dardasheh, a mobile application that connects users t
 
 # Links (work on progress)
 
-- [UI/UX prototype made in figma]( https://www.figma.com/proto/R6z8JeGWAxQiSTiWaijed1/Full-Stack-Project-%5BDardasheh%5D?node-id=1%3A4&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=42%3A38&show-proto-sidebar=1)
+- [UI/UX prototype]( https://www.figma.com/proto/R6z8JeGWAxQiSTiWaijed1/Full-Stack-Project-%5BDardasheh%5D?node-id=1%3A4&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=42%3A38&show-proto-sidebar=1)
 - [Front-end Dardasheh](https://github.com/DaniaHamad/Dardasheh)
 - [Back-end Dardasheh](https://github.com/DaniaHamad/DardashehWebAPI)
